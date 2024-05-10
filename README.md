@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hey there 👋!
 
-My name is Ben Poppy and I'm a Senior Data Engineer from 🇬🇧
+I'm Ben Poppy from 🇬🇧, husband to a beautiful wife 👰, father to two amazing children 👨‍❤️‍👨 and one dog 🐶
 
-- 🔭 I’m currently working on building out my homelab
+- 🔭 I’m currently working as a Senior Data Engineer
 - 🌱 I’m currently learning go and remix
+- ⏳ In my free time I like tinkering with my homelab
 - 📫 How to reach me: [Email](mailto:me@benpoppy.dev) or [LinkedIn](https://www.linkedin.com/in/benpoppy/)
