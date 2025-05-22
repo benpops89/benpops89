@@ -1,6 +1,6 @@
 ### Hey there 👋!
 
-I'm Ben Poppy from 🇬🇧, husband to a beautiful wife 👰, father to two amazing children 👨‍❤️‍👨 and one dog 🐶
+I'm Ben Poppy from 🇬🇧, husband to a beautiful wife 👰, father to three amazing children 👨‍❤️‍👨 and one dog 🐶
 
 - 🔭 I’m currently working as a Senior Data Engineer
 - 🌱 I’m currently learning go and remix
